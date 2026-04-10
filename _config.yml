@@ -1,10 +1,1 @@
-# 博客基础信息
-title: 我的 GitHub 博客
-description: 记录技术与生活
-author: xzjxylophone
-
-# 核心：指定 Jekyll 主题（GitHub 官方支持的默认主题 minima）
 theme: minima
-
-# 其他基础配置
-permalink: /:year/:month/:day/:title/
