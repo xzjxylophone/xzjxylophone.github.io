@@ -1,1 +1,9 @@
+# 强制Jekyll启用博客模式
+title: 我的GitHub博客
 theme: minima
+permalink: /:year/:month/:day/:title/
+# 强制包含_posts文件夹，防止被忽略
+include:
+  - _posts
+# 关闭不必要的排除规则
+exclude: []
