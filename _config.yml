@@ -1,3 +1,10 @@
-title: 你的博客标题
-description: 博客描述
-theme: minima  # GitHub Pages 官方默认主题，必须选
+# 博客基础信息
+title: 我的 GitHub 博客
+description: 记录技术与生活
+author: xzjxylophone
+
+# 核心：指定 Jekyll 主题（GitHub 官方支持的默认主题 minima）
+theme: minima
+
+# 其他基础配置
+permalink: /:year/:month/:day/:title/
