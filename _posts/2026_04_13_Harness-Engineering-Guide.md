@@ -1,8 +1,8 @@
 ---
-layout:post
-title:"Harness Engineering: 基于 Claude Code 的完全指南"
-date:2026-04-13
-categories:AI
+layout: post
+title: "Harness Engineering: 基于 Claude Code 的完全指南"
+date: 2026-04-13
+categories: AI
 ---
 
 A Comprehensive Textbook on AI Agent Infrastructure Design
